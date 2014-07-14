@@ -1,0 +1,3 @@
+To build this project, open a new (empty) Visual Studio project, go to the Project menu, Add Existing Item, and select all the files in this folder. Copy the cube-border.bmp file to the directory by the name of your project (e.g. If your project is named TestBuild, the directory containing your project should contain a directory named TestBuild. Place the bmp file in this folder).
+
+Needs an actual TetrisGame class to handle everything properly now. Need to make sure that whenever x,y,z or rotation of tetronimo changes, we don't go out of bounds
